@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Calculador
-comment1.params=numero1\ numero2\ numero3
-comment1.target=Calculador(double,\ double,\ double)
-comment2.params=
-comment2.target=double\ calculaSoma()
-comment3.params=
-comment3.target=double\ calculaMedia()
-numComments=4

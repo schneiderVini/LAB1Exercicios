@@ -1,3 +1,0 @@
-/* Do not change this file's content */
-feeper.exercicio.id=205
-feeper.exercicio.turma.id=36

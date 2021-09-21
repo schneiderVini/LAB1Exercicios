@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PesquisaArrayString
+comment1.params=nomes
+comment1.target=PesquisaArrayString(java.lang.String[])
+comment2.params=nome
+comment2.target=boolean\ contem(java.lang.String)
+comment3.params=nome
+comment3.target=int\ ocorrencias(java.lang.String)
+comment4.params=nome
+comment4.target=int\ indicePrimeiraOcorrencia(java.lang.String)
+comment5.params=nome
+comment5.target=int\ indiceUltimaOcorrencia(java.lang.String)
+comment6.params=nome\ on
+comment6.target=int\ indiceOcorrencia(java.lang.String,\ int)
+numComments=7
